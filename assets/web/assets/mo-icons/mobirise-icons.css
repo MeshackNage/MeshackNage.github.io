@@ -24,18 +24,17 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.mbri-bootstrap:before {
-  content: "\e90e";
-}
 .mbri-briefcase:before {
   content: "\e90f";
-}
-.mbri-file:before {
-  content: "\e92e";
 }
 .mbri-opened-folder:before {
   content: "\e955";
 }
+
+.mbri-save:before {
+  content: "\e96a";
+}
+
 .mbri-setting:before {
   content: "\e96c";
 }
