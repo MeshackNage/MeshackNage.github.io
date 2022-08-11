@@ -38,18 +38,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.socicon-behance:before {
-  content: "\e027";
-}
 
 .socicon-github:before {
   content: "\e030";
 }
-
+.socicon-behance:before {
+  content: "\e027";
+}
 .socicon-linkedin:before {
   content: "\e049";
 }
 .socicon-instagram:before {
   content: "\e057";
 }
-
