@@ -1,4 +1,3 @@
-
 section {
   background-color: #eeeeee; }
 
@@ -259,6 +258,14 @@ nav .mbr-section-btn {
   min-height: 100vh;
   padding-top: 3rem;
   padding-bottom: 3rem; }
+
+/*! Map */
+.map {
+  height: 25rem;
+  position: relative; }
+  .map iframe {
+    width: 100%;
+    height: 100%; }
 
 /* Form */
 .form-asterisk {
