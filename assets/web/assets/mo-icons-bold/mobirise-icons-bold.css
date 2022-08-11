@@ -19,13 +19,19 @@
   text-transform: none;
   line-height: 1;
 
+  /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+
+.mbrib-folder:before {
+  content: "\e930";
+}
+
 .mbrib-responsive:before {
   content: "\e966";
 }
-
 .mbrib-smile-face:before {
   content: "\e975";
 }
